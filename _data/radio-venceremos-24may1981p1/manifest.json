@@ -1,0 +1,46 @@
+{
+    "@context": "http://iiif.io/api/presentation/3/context.json",
+    "id": "https://verapburrows.github.io/May241981p1/radio-venceremos-24may1981p1/manifest.json",
+    "type": "Manifest",
+    "label": { "en": [ "Radio Venceremos 24May1981p1" ] },
+    "homepage": [
+      {
+        "id": "https://hrdi.lib.utexas.edu/catalog/hrdi:b9acf95f-fc26-4c30-af4e-37b40413106e",
+        "type": "Text",
+        "label": { "en": [ "Radio Venceremos 24May1981p1" ] },
+        "format": "text/html"
+      }
+    ],
+    "provider": [
+      {
+        "id": "https://hrdi.lib.utexas.edu/hrdi/home/",
+        "type": "Agent",
+        "label": { "en": [ "The University of Texas at Austin" ] }
+      }
+    ],
+    "items": [
+      {
+        "id": "https://verapburrows.github.io/May241981p1/radio-venceremos-24may1981p1/canvas-1/canvas",
+        "type": "Canvas",
+        "duration": 2781.0,
+        "items": [
+          {
+            "id": "https://verapburrows.github.io/May241981p1/radio-venceremos-24may1981p1/canvas-1/paintings",
+            "type": "AnnotationPage",
+            "items": [
+              {
+                "id": "https://verapburrows.github.io/May241981p1/radio-venceremos-24may1981p1/canvas-1/painting",
+                "type": "Annotation",
+                "motivation": "painting",
+                "body": {
+                  "id": "https://curio.lib.utexas.edu/assets/DAMS/hrdi/hrdi_b9acf95f-fc26-4c30-af4e-37b40413106e/manifests/3/hrdi_b9acf95f-fc26-4c30-af4e-37b40413106e.json",
+                    "duration": 2781.0
+                },
+                "target": "https://verapburrows.github.io/May241981p1/radio-venceremos-24may1981p1/canvas-1/canvas"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+} 
